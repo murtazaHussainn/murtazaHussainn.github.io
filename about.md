@@ -11,4 +11,4 @@ The blog was published for my digital forensics assignment at Fast National Univ
 
 ### Contact me
 
-[email@domain.com](mailto:k214758@nu.edu.pk)
+[k214758@nu.edu.pk](mailto:k214758@nu.edu.pk)
