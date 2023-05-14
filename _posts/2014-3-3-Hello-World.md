@@ -39,3 +39,5 @@ Here are some useful commands related to passwords and authentication:
   password_hash = crypt.crypt(password, salt)
   print(password_hash)
 ```
+
+above is python code
