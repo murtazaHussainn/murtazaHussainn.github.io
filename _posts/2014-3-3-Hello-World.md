@@ -6,7 +6,7 @@ published: true
 ---
 layout: post
 title: "Passwords and Authentication"
-author: 21k4758
+author: Murtaza
 categories: cybersecurity
 ---
 
