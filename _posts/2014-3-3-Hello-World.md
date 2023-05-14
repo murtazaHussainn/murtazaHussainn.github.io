@@ -9,7 +9,7 @@ published: true
 
 In today's interconnected world, ensuring the security of personal and sensitive information is crucial. To combat cyber threats, strong passwords and effective authentication methods are essential. This blog explores the significance of strong passwords and authentication in bolstering cybersecurity.
 
-![]({{ site.baseurl }}/images/intorduction.jpg "")
+![](/images/intorduction.jpg "")
 
 
 
