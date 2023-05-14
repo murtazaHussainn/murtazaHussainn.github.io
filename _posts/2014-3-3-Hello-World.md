@@ -33,15 +33,40 @@ Here are some useful commands related to passwords and authentication:
 
 - Generate Password Hash (Python):
  ```python
-import math
-
-def square_root(x):
-return math.sqrt(x)
-
-result = square_root(25)
-print(result)
+  import crypt
+  password = "password123"
+  salt = crypt.mksalt(crypt.METHOD_SHA512)
+  password_hash = crypt.crypt(password, salt)
+  print(password_hash)
 ```
 
 Crack Password Hash using John the Ripper:
+ ```css
+  john --format=sha512crypt --wordlist=/usr/share/wordlists/rockyou.txt password_hash
+```
+Brute Force SSH Login using Hydra:
+ ```bash
+  hydra -l <username> -P /usr/share/wordlists/rockyou.txt ssh://target_ip
+```
+Cracking Windows Password Hashes using Hashcat:
 
-above is python code
+ ```bash
+  hashcat -m 1000 -a 0 -o cracked.txt hashes.txt /usr/share/wordlists/rockyou.txt
+```
+Password Policy Audit with Cracklib-check:
+
+ ```bash
+  cracklib-check /etc/pam.d/common-password
+```
+
+Change User Password in Linux:
+
+ ```
+ passwd username
+```
+
+Reset Forgotten Windows Password with chntpw:
+
+ ```php
+  chntpw -u <username> SAM
+```
