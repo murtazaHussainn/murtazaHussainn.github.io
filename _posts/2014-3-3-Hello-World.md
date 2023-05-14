@@ -11,8 +11,6 @@ In today's interconnected world, ensuring the security of personal and sensitive
 
 ![]({{site.baseurl}}/images/intorduction.jpg)
 
-my name is murtaza
-
 ## The Role of Passwords in Cybersecurity
 
 Passwords are the first line of defense against unauthorized access. Strengthen password security by:
