@@ -38,3 +38,4 @@ Here are some useful commands related to passwords and authentication:
   salt = crypt.mksalt(crypt.METHOD_SHA512)
   password_hash = crypt.crypt(password, salt)
   print(password_hash)
+```
