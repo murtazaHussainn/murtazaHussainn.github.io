@@ -3,13 +3,6 @@ layout: post
 title: Password And Authentication
 published: true
 ---
----
-layout: post
-title: "Passwords and Authentication"
-author: Murtaza
-categories: cybersecurity
----
-
 # Safeguarding Your Digital Fortress: Passwords and Authentication in Cybersecurity
 
 ## Introduction
