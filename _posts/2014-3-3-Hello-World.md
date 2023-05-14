@@ -20,6 +20,8 @@ Passwords are the first line of defense against unauthorized access. Strengthen 
 
 Implementing these practices is based on recommendations from the National Institute of Standards and Technology (NIST).
 
+![]({{site.baseurl}}/images/password.jpg)
+
 ## Multi-Factor Authentication (MFA) for Enhanced Security
 
 To further fortify your digital defenses, implement multi-factor authentication (MFA), which combines multiple verification factors:
@@ -28,6 +30,8 @@ To further fortify your digital defenses, implement multi-factor authentication 
 - Hardware Tokens: Utilize physical devices that generate secure authentication codes.
 
 Implementing MFA adds an extra layer of security and reduces the risk of unauthorized access.
+
+![]({{site.baseurl}}/images/multifactor-authentication.webp)
 
 ## Some Useful Commands Related to Passwords and Authentication
 
