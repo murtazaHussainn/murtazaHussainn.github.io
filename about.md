@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I Am a student in Fast Nucces University Doing Bachelors in cyber security This blog I published for my digital forensics assignment and i hope you like is for any query Below is my email feel free to mail
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:k214758@nu.edu.pk)
