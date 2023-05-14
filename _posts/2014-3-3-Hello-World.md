@@ -32,12 +32,16 @@ Implementing MFA adds an extra layer of security and reduces the risk of unautho
 Here are some useful commands related to passwords and authentication:
 
 - Generate Password Hash (Python):
-  ```python
-  import crypt
-  password = "password123"
-  salt = crypt.mksalt(crypt.METHOD_SHA512)
-  password_hash = crypt.crypt(password, salt)
-  print(password_hash)
+ ```python
+import math
+
+def square_root(x):
+return math.sqrt(x)
+
+result = square_root(25)
+print(result)
 ```
+
+Crack Password Hash using John the Ripper:
 
 above is python code
