@@ -3,7 +3,7 @@ layout: post
 title: Password And Authentication
 published: true
 ---
-# Safeguarding Your Digital Fortress: Passwords and Authentication in Cybersecurity
+### Safeguarding Your Digital Fortress: Passwords and Authentication in Cybersecurity
 
 ## Introduction
 
