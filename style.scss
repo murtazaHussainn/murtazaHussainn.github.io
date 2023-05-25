@@ -19,7 +19,9 @@ html {
 }
 
 body {
-background: $white;
+ background-image: url("../images/back2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
