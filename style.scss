@@ -13,6 +13,13 @@
 /* BASE RULES */
 /**************/
 
+
+.background-image {
+  background-image: url("image/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 html {
   font-size: 100%;
 }
